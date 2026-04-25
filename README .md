@@ -158,5 +158,5 @@ This project is licensed under the terms specified in the [`LICENSE`](./LICENSE)
 
 ## 👨‍💻 Authors
 
-*Graduation Project — [Your University Name]*  
-*Add your team names and contact info here.*
+*Graduation Project Team*  
+*Team Lead: Mahmoud Mohamed Wahman*
